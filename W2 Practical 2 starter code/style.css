@@ -34,6 +34,10 @@ a {
     padding-left: 20em;
 }
 
+#main-nav li:hover{
+    background-color: green;
+}
+
 #main-nav li{
     display: inline;
     padding: 10px;
@@ -43,6 +47,11 @@ a {
     line-height: 5em;
 
 }
+
+main, aside{
+    display: inline-block;
+}
+
 
 
 
